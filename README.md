@@ -1,3 +1,7 @@
+# IMPORTANT
+AI-Miner is under review to make sure its compatible with the mainnet node format.
+
+AI-Miner may be good at avoiding ghosts, but only default size of 5x5x5 has been tested so untested
 # AI-Miner
 Hello!
 For the past 2 days i have been training a AI model that is:
